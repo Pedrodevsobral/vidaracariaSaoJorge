@@ -11,6 +11,7 @@ PHP, CSS, HTML, JQUERY.
 #http://www.vidracariasaojorge.com.br
 suporte: pedrodevphp@gmail.com
 
-feito com amor. s2
+
+feito com amor.♥️
 
 
